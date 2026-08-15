@@ -12,9 +12,12 @@ website:
     left:
       - href: index.qmd
         text: Victorya Richardson
-      - research.qmd
-      - teaching.qmd
-      - publications.qmd
+      - href: research/index.qmd
+        text: Research
+      - href: teaching-and-mentorship/index.qmd
+        text: Teaching & Mentorship
+      - href: publications/index.qmd
+        text: Publications
       # - random.qmd
 
 format:
@@ -26,6 +29,7 @@ format:
       - morph
       - brand
     css: styles.css
+    include-after-body: _analytics.html
     toc: false
 
 
