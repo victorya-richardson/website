@@ -1,51 +1,51 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "In preparation\n\nExtreme first-passage times in intermittent search\nVictorya Richardson and Sean D. Lawley\n\n\n\nPublished\n\nYet another look at narrow escape through a tube\nVictorya Richardson, Yick Hin Ling, and Sean D. Lawley\nSIAM Journal on Applied Mathematics, 86(4), 1632–1653, (2026).\n\n\nQuantifying the transition from single-file to Fickian diffusion\nVictorya Richardson and Sean D. Lawley\nThe Journal of Chemical Physics, 163(19), 194111, (2025).\n\n\nComparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals\nVictorya Richardson, Nora Engel, and Rob J. Kulathinal\nBiology of Sex Differences, 14(1), 30, (2023)."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research uses mathematical and computational modeling to investigate problems motivated by biology. I’m particularly interested in stochastic systems, where randomness plays an essential role in observed behavior."
-  },
-  {
-    "objectID": "research.html#stochastic-models-of-biological-search",
-    "href": "research.html#stochastic-models-of-biological-search",
-    "title": "Research",
-    "section": "Stochastic Models of Biological Search",
-    "text": "Stochastic Models of Biological Search\n\n\n\nMany cellular processes depend on how quickly diffusing molecules can locate small targets. My PhD research examined how stochastic switching between different modes of motion affects these search times, motivated by facilitated diffusion of transcription factors searching for specific binding sites on DNA.\nTo model this process, we developed an intermittent-search model in which particles stochastically switch between an active state that allows them to detect the target while diffusing and a hidden state in which they continue to diffuse but cannot detect it. In the facilitated-diffusion interpretation, these states represent motion along DNA and excursions away from the DNA, respectively. We used first-passage theory and asymptotic analysis to study the fastest search among many independent particles. When particles begin hidden, a very fast search requires both favorable initial positioning and sufficiently rapid activation into the search state. Requiring both events to occur on short timescales changes the extreme first-passage behavior and gives rise to distinct asymptotic regimes depending on the switching dynamics. We derived asymptotic approximations for the fastest search time in these different regimes and used numerical methods to characterize the transitions between them.\n(Manuscript in preparation)"
-  },
-  {
-    "objectID": "research.html#diffusion-in-complex-geometries",
-    "href": "research.html#diffusion-in-complex-geometries",
-    "title": "Research",
-    "section": "Diffusion in Complex Geometries",
-    "text": "Diffusion in Complex Geometries\nGeometry can fundamentally alter the behavior of diffusing particles, particularly when motion is restricted by narrow passages or strong confinement. In two projects, we studied how geometric constraints affect escape times and collective diffusive behavior.\n\nNarrow escape through a tube\nThe classical narrow escape problem asks how long it takes a diffusing particle to escape a bounded domain through a small opening. Motivated in part by asymmetric cell division in budding yeast, where a narrow nuclear bridge restricts diffusion between mother and daughter compartments, we studied a variation in which particles escape through a long, narrow tube.\n\n\n\nUsing matched asymptotic analysis and probabilistic methods, we derived asymptotic approximations for the mean escape time, resolving conflicting estimates that had appeared in the literature. We also investigated the case in which diffusivity differs between the tube and surrounding domain, providing a way to distinguish the effects of geometry from hindered diffusion within the narrow passage.\n(View publication)\n\n\nQuasi-single-file diffusion\nWhen particles diffuse through sufficiently narrow channels, they cannot pass one another, producing single-file diffusion. We studied quasi-single-file diffusion, where slightly wider confinement permits rare passing events, leading to a crossover from single-file behavior at short times to ordinary Fickian diffusion at long times.\n\n\n\nBy combining boundary homogenization with kinetic Monte Carlo simulations, we quantified how the mean time between passing events, known as the hopping time, depends on confinement geometry. This hopping time determines the timescale of the crossover between the two diffusive regimes, with applications to transport in tightly confined environments such as membrane channels.\n(View publication)"
-  },
-  {
-    "objectID": "research.html#evolutionary-and-developmental-genomics",
-    "href": "research.html#evolutionary-and-developmental-genomics",
-    "title": "Research",
-    "section": "Evolutionary and Developmental Genomics",
-    "text": "Evolutionary and Developmental Genomics\n\n\n\nBefore my PhD, I worked in bioinformatics and comparative genomics, using computational methods to study gene expression and molecular evolution across sexes and species. In one project, we analyzed single-cell RNA-sequencing data from human and mouse preimplantation embryos to investigate sex-biased gene expression early in development. We found widespread transcriptional differences between the sexes, with similar functional patterns across species despite differences in the specific genes involved.\n(View publication)\nI also studied the rapid evolution of male reproductive proteins in great apes, combining estimates of positive selection with protein-interaction networks to investigate whether adaptive genes evolve independently or together within functional networks."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching & Mentorship",
-    "section": "",
-    "text": "Teaching\nDuring my PhD at the University of Utah, I was the instructor of record for seven undergraduate mathematics courses and a teaching assistant for two additional courses. My students came from a wide range of academic backgrounds, including mathematics, engineering, computer science, and other STEM disciplines.\n\nInstructor of Record\nMATH 2270 — Linear Algebra\nSummer 2026 · Fall 2025 · Summer 2025\nMATH 2250 — Differential Equations and Linear Algebra\nSpring 2026 · Spring 2025\nMATH 3140 — Vector Calculus and Partial Differential Equations for Engineers\nFall 2024 · Fall 2023\n\n\nTeaching Assistant\nMATH 3140 — Vector Calculus and Partial Differential Equations for Engineers\nSpring 2023\nMATH 1310 — Engineering Calculus I\nFall 2022\n\n\n\nMentorship\n\nSummer Graduate School Preview Program\nUndergraduate Research Mentor · Summers 2022 & 2023\nThrough the weeklong Graduate School Preview program, I mentored undergraduate teams on mathematical biology projects exploring Peto’s paradox and how phenotypic switching helps microbial communities survive antibiotic treatment. I guided students through project design, background research, mathematical analysis, computation, and presentation of their results.\n\n\nHigh School Mathematical Modeling Workshop\nHigh School Mathematical Modeling Mentor · Fall 2022\nI helped run a semester-long after-school workshop at the University of Utah for high school students interested in mathematical modeling competitions such as HiMCM and the M3 Challenge. Students learned to develop and analyze models using difference and differential equations and statistical methods, implement them in Python and MATLAB, and communicate their results through technical reports."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Victorya Richardson",
     "section": "",
     "text": "I recently completed my PhD in mathematics at the University of Utah, where I developed stochastic models of biological systems under the supervision of Sean Lawley.\nPrior to my PhD, I conducted research in bioinformatics and computational genomics.\nMore broadly, I’m interested in applying mathematical and computational approaches across different areas of science."
+  },
+  {
+    "objectID": "teaching-and-mentorship/index.html",
+    "href": "teaching-and-mentorship/index.html",
+    "title": "Teaching & Mentorship",
+    "section": "",
+    "text": "Teaching\nDuring my PhD at the University of Utah, I was the instructor of record for seven undergraduate mathematics courses and a teaching assistant for two additional courses. My students came from a wide range of academic backgrounds, including mathematics, engineering, computer science, and other STEM disciplines.\n\nInstructor of Record\nMATH 2270 — Linear Algebra\nSummer 2026 · Fall 2025 · Summer 2025\nMATH 2250 — Differential Equations and Linear Algebra\nSpring 2026 · Spring 2025\nMATH 3140 — Vector Calculus and Partial Differential Equations for Engineers\nFall 2024 · Fall 2023\n\n\nTeaching Assistant\nMATH 3140 — Vector Calculus and Partial Differential Equations for Engineers\nSpring 2023\nMATH 1310 — Engineering Calculus I\nFall 2022\n\n\n\nMentorship\n\nSummer Graduate School Preview Program\nUndergraduate Research Mentor · Summers 2022 & 2023\nThrough the weeklong Graduate School Preview program, I mentored undergraduate teams on mathematical biology projects exploring Peto’s paradox and how phenotypic switching helps microbial communities survive antibiotic treatment. I guided students through project design, background research, mathematical analysis, computation, and presentation of their results.\n\n\nHigh School Mathematical Modeling Workshop\nHigh School Mathematical Modeling Mentor · Fall 2022\nI helped run a semester-long after-school workshop at the University of Utah for high school students interested in mathematical modeling competitions such as HiMCM and the M3 Challenge. Students learned to develop and analyze models using difference and differential equations and statistical methods, implement them in Python and MATLAB, and communicate their results through technical reports."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research uses mathematical and computational modeling to investigate problems motivated by biology. I’m particularly interested in stochastic systems, where randomness plays an essential role in observed behavior."
+  },
+  {
+    "objectID": "research/index.html#stochastic-models-of-biological-search",
+    "href": "research/index.html#stochastic-models-of-biological-search",
+    "title": "Research",
+    "section": "Stochastic Models of Biological Search",
+    "text": "Stochastic Models of Biological Search\n\n\n\nMany cellular processes depend on how quickly diffusing molecules can locate small targets. My PhD research examined how stochastic switching between different modes of motion affects these search times, motivated by facilitated diffusion of transcription factors searching for specific binding sites on DNA.\nTo model this process, we developed an intermittent-search model in which particles stochastically switch between an active state that allows them to detect the target while diffusing and a hidden state in which they continue to diffuse but cannot detect it. In the facilitated-diffusion interpretation, these states represent motion along DNA and excursions away from the DNA, respectively. We used first-passage theory and asymptotic analysis to study the fastest search among many independent particles. When particles begin hidden, a very fast search requires both favorable initial positioning and sufficiently rapid activation into the search state. Requiring both events to occur on short timescales changes the extreme first-passage behavior and gives rise to distinct asymptotic regimes depending on the switching dynamics. We derived asymptotic approximations for the fastest search time in these different regimes and used numerical methods to characterize the transitions between them.\n(Manuscript in preparation)"
+  },
+  {
+    "objectID": "research/index.html#diffusion-in-complex-geometries",
+    "href": "research/index.html#diffusion-in-complex-geometries",
+    "title": "Research",
+    "section": "Diffusion in Complex Geometries",
+    "text": "Diffusion in Complex Geometries\nGeometry can fundamentally alter the behavior of diffusing particles, particularly when motion is restricted by narrow passages or strong confinement. In two projects, we studied how geometric constraints affect escape times and collective diffusive behavior.\n\nNarrow escape through a tube\nThe classical narrow escape problem asks how long it takes a diffusing particle to escape a bounded domain through a small opening. Motivated in part by asymmetric cell division in budding yeast, where a narrow nuclear bridge restricts diffusion between mother and daughter compartments, we studied a variation in which particles escape through a long, narrow tube.\n\n\n\nUsing matched asymptotic analysis and probabilistic methods, we derived asymptotic approximations for the mean escape time, resolving conflicting estimates that had appeared in the literature. We also investigated the case in which diffusivity differs between the tube and surrounding domain, providing a way to distinguish the effects of geometry from hindered diffusion within the narrow passage.\n(View publication)\n\n\nQuasi-single-file diffusion\nWhen particles diffuse through sufficiently narrow channels, they cannot pass one another, producing single-file diffusion. We studied quasi-single-file diffusion, where slightly wider confinement permits rare passing events, leading to a crossover from single-file behavior at short times to ordinary Fickian diffusion at long times.\n\n\n\nBy combining boundary homogenization with kinetic Monte Carlo simulations, we quantified how the mean time between passing events, known as the hopping time, depends on confinement geometry. This hopping time determines the timescale of the crossover between the two diffusive regimes, with applications to transport in tightly confined environments such as membrane channels.\n(View publication)"
+  },
+  {
+    "objectID": "research/index.html#evolutionary-and-developmental-genomics",
+    "href": "research/index.html#evolutionary-and-developmental-genomics",
+    "title": "Research",
+    "section": "Evolutionary and Developmental Genomics",
+    "text": "Evolutionary and Developmental Genomics\n\n\n\nBefore my PhD, I worked in bioinformatics and comparative genomics, using computational methods to study gene expression and molecular evolution across sexes and species. In one project, we analyzed single-cell RNA-sequencing data from human and mouse preimplantation embryos to investigate sex-biased gene expression early in development. We found widespread transcriptional differences between the sexes, with similar functional patterns across species despite differences in the specific genes involved.\n(View publication)\nI also studied the rapid evolution of male reproductive proteins in great apes, combining estimates of positive selection with protein-interaction networks to investigate whether adaptive genes evolve independently or together within functional networks."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "In preparation\n\nExtreme first-passage times in intermittent search\nVictorya Richardson and Sean D. Lawley\n\n\n\nPublished\n\nYet another look at narrow escape through a tube\nVictorya Richardson, Yick Hin Ling, and Sean D. Lawley\nSIAM Journal on Applied Mathematics, 86(4), 1632–1653, (2026).\n\n\nQuantifying the transition from single-file to Fickian diffusion\nVictorya Richardson and Sean D. Lawley\nThe Journal of Chemical Physics, 163(19), 194111, (2025).\n\n\nComparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals\nVictorya Richardson, Nora Engel, and Rob J. Kulathinal\nBiology of Sex Differences, 14(1), 30, (2023)."
   }
 ]
