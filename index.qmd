@@ -1,0 +1,29 @@
+---
+title: "Victorya Richardson"
+image: "images/tory.png"
+about:
+  template: trestles
+  links: 
+    - icon: file-person
+      href: files/Richardson_Resume.pdf
+      text: CV
+      target: _blank
+      rel: noopener
+      aria-label: Curriculum Vitae PDF
+    - icon: linkedin
+      href: https://www.linkedin.com/in/victorya-richardson/
+      text: LinkedIn
+      aria-label: LinkedIn profile
+    - icon: envelope
+      text: victorya [dot] richardson [at] gmail [dot] com
+      href: mailto:victorya.richardson@gmail.com
+      aria-label: Email Victorya Richardson
+  image-width: 16em
+  image-alt: "Victorya Richardson standing outdoors in the snow overlooking Salt Lake City"
+---
+
+I recently completed my PhD in mathematics at the University of Utah, where I developed stochastic models of biological systems under the supervision of [Sean Lawley](https://www.math.utah.edu/~lawley/). 
+
+Prior to my PhD, I conducted research in bioinformatics and computational genomics. 
+
+More broadly, I’m interested in applying mathematical and computational approaches across different areas of science.

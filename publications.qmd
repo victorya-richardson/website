@@ -1,0 +1,29 @@
+---
+title: "Publications"
+# page-layout: full
+---
+
+### In preparation
+::: {#facilitated-diffusion}
+**Extreme first-passage times in intermittent search**  
+Victorya Richardson and Sean D. Lawley
+::: 
+
+### Published
+::: {#narrow-escape}
+**Yet another look at narrow escape through a tube**  
+Victorya Richardson, Yick Hin Ling, and Sean D. Lawley  
+*[SIAM Journal on Applied Mathematics, **86**(4), 1632–1653](https://doi.org/10.1137/25M1824197)*, (2026).
+:::
+
+::: {#quasi-single-file}
+**Quantifying the transition from single-file to Fickian diffusion**  
+Victorya Richardson and Sean D. Lawley  
+*[The Journal of Chemical Physics, **163**(19), 194111](https://doi.org/10.1063/5.0303079)*, (2025).
+:::
+
+::: {#comparative-developmental-genomics}
+**Comparative developmental genomics of sex-biased gene expression in early embryogenesis across mammals**  
+Victorya Richardson, Nora Engel, and Rob J. Kulathinal  
+*[Biology of Sex Differences, **14**(1), 30](https://doi.org/10.1186/s13293-023-00520-z)*, (2023).
+:::

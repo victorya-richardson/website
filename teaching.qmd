@@ -1,0 +1,37 @@
+---
+title: "Teaching & Mentorship"
+format:
+  html:
+    body-classes: no-page-title
+---
+# Teaching {.page-heading}
+During my PhD at the University of Utah, I was the instructor of record for seven undergraduate mathematics courses and a teaching assistant for two additional courses. My students came from a wide range of academic backgrounds, including mathematics, engineering, computer science, and other STEM disciplines.
+
+### Instructor of Record
+
+**MATH 2270 — Linear Algebra**  
+Summer 2026 · Fall 2025 · Summer 2025
+
+**MATH 2250 — Differential Equations and Linear Algebra**  
+Spring 2026 · Spring 2025 
+
+**MATH 3140 — Vector Calculus and Partial Differential Equations for Engineers**  
+Fall 2024 · Fall 2023
+
+### Teaching Assistant
+
+**MATH 3140 — Vector Calculus and Partial Differential Equations for Engineers**  
+Spring 2023
+
+**MATH 1310 — Engineering Calculus I**  
+Fall 2022
+
+# Mentorship
+
+### Summer Graduate School Preview Program
+**Undergraduate Research Mentor · Summers 2022 & 2023**  
+Through the weeklong Graduate School Preview program, I mentored undergraduate teams on mathematical biology projects exploring Peto’s paradox and how phenotypic switching helps microbial communities survive antibiotic treatment. I guided students through project design, background research, mathematical analysis, computation, and presentation of their results.
+
+### High School Mathematical Modeling Workshop
+**High School Mathematical Modeling Mentor · Fall 2022**  
+I helped run a semester-long after-school workshop at the University of Utah for high school students interested in mathematical modeling competitions such as [HiMCM](https://www.comap.com/contests/himcm-midmcm) and the [M3 Challenge](https://m3challenge.siam.org/). Students learned to develop and analyze models using difference and differential equations and statistical methods, implement them in Python and MATLAB, and communicate their results through technical reports.

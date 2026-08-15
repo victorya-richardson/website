@@ -1,0 +1,32 @@
+project:
+  type: website
+
+resources:
+    - files/Richardson_Resume.pdf
+
+website:
+  search: false
+  title: ""
+  navbar:
+    background: "#f8fbfd"
+    left:
+      - href: index.qmd
+        text: Victorya Richardson
+      - research.qmd
+      - teaching.qmd
+      - publications.qmd
+      # - random.qmd
+
+format:
+  html:
+    page-layout: full
+    anchor-sections: false
+    backgroundcolor: "#f8fbfd"
+    theme:
+      - morph
+      - brand
+    css: styles.css
+    toc: false
+
+
+
