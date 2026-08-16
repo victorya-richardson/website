@@ -19,7 +19,7 @@ about:
       href: mailto:victorya.richardson@gmail.com
       aria-label: Email Victorya Richardson
   image-width: 16em
-  image-alt: "Victorya Richardson standing outdoors in the snow overlooking Salt Lake City"
+  image-alt: "Victorya Richardson standing outdoors with Mount Rainier in the background."
 ---
 
 I recently completed my PhD in mathematics at the University of Utah, where I developed stochastic models of biological systems under the supervision of [Sean Lawley](https://www.math.utah.edu/~lawley/). 
